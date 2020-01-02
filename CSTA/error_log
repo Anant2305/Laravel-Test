@@ -1,0 +1,431 @@
+[16-May-2017 09:27:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[16-May-2017 09:27:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[16-May-2017 09:28:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[16-May-2017 09:28:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 07:24:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 07:24:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:21:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:21:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:23:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:29:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:29:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:29:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:30:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:30:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:30:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:31:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 18:31:13 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:10:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:11:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:11:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:11:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:12:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:12:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:23:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:23:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:26:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:43:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:43:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:44:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_connect() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:4
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(5): dbopen()
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[17-May-2017 19:45:09 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:12 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:38 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:45:51 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:46:39 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:46:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:47:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:48:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:48:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:48:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:48:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:50:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:50:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:53:06 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:53:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:53:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 19:54:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function mysql_query() in /home/anant615/public_html/Test/CSTA/includes/INC_db.php:37
+Stack trace:
+#0 /home/anant615/public_html/Test/CSTA/listings.php(15): safe_query('Select id,cours...')
+#1 {main}
+  thrown in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:10 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:10 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:10 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:10 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/listings.php on line 17
+[17-May-2017 20:14:43 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:14:43 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/listings.php on line 17
+[17-May-2017 20:15:47 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:47 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:47 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:47 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/listings.php on line 17
+[17-May-2017 20:15:56 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:56 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:56 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:15:56 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/listings.php on line 17
+[17-May-2017 20:16:42 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:16:42 UTC] PHP Warning:  mysql_query(): Access denied for user 'root'@'localhost' (using password: NO) in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:16:42 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 37
+[17-May-2017 20:16:42 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/listings.php on line 17
+[17-May-2017 20:18:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 06:35:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 06:59:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 13:13:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 19:44:04 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 19:44:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 19:44:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 19:49:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:13:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:13:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:13:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:13:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:21:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[18-May-2017 20:21:23 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/details.php on line 12
+[25-May-2017 18:29:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:29:50 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/details.php on line 12
+[25-May-2017 18:31:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:31:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-May-2017 18:31:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:40:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:40:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:41:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:41:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:41:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:41:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:49:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:50:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 20:50:07 UTC] PHP Warning:  mysql_fetch_array() expects parameter 1 to be resource, null given in /home/anant615/public_html/Test/CSTA/details.php on line 12
+[03-Jun-2017 21:36:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:36:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:37:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:38:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:48:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:51:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:55:52 UTC] PHP Parse error:  syntax error, unexpected '$faqRef' (T_VARIABLE), expecting '(' in /home/anant615/public_html/Test/CSTA/faqs.php on line 21
+[03-Jun-2017 21:55:55 UTC] PHP Parse error:  syntax error, unexpected '$faqRef' (T_VARIABLE), expecting '(' in /home/anant615/public_html/Test/CSTA/faqs.php on line 21
+[03-Jun-2017 21:56:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:57:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:59:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:59:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:59:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 21:59:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:22:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:22:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:37:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:37:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:41:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:41:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:45:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:46:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[03-Jun-2017 22:50:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:27:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:27:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:27:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:27:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:27:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:28:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:28:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:28:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:28:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:28:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:33:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:33:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:46:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:51:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:51:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 14:54:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[04-Jun-2017 15:06:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[05-Jun-2017 07:37:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[05-Jun-2017 07:37:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  array_combine(): Both parameters should have an equal number of elements in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 15
+[09-Jun-2017 13:36:57 UTC] PHP Warning:  explode() expects parameter 2 to be string, array given in /home/anant615/public_html/Test/CSTA/csv_uploader.php on line 34
+[16-Jul-2017 19:21:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[16-Jul-2017 19:30:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:15 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:58:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[25-Jul-2017 07:59:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[19-Sep-2017 09:29:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[19-Sep-2017 09:29:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[19-Sep-2017 09:29:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[29-Nov-2017 08:28:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 09:59:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 09:59:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 09:59:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:00:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:00:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:01:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:04:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:04:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:04:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:06:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:06:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:08:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:16:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Nov-2017 10:17:01 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:45:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:45:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:45:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:46:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:46:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:52:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:52:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:52:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4
+[30-Jan-2018 08:52:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/anant615/public_html/Test/CSTA/includes/INC_db.php on line 4

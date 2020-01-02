@@ -1,0 +1,4 @@
+[26-Oct-2017 09:23:49 UTC] PHP Fatal error:  Class 'Route' not found in /home/anant615/public_html/Test/laravel/website/app/Http/routes.php on line 14
+[26-Oct-2017 09:28:32 UTC] PHP Fatal error:  Class 'Route' not found in /home/anant615/public_html/Test/laravel/website/app/Http/routes.php on line 14
+[26-Oct-2017 10:01:29 UTC] PHP Fatal error:  Class 'Route' not found in /home/anant615/public_html/Test/laravel/website/app/Http/routes.php on line 14
+[30-Jan-2018 08:51:48 UTC] PHP Fatal error:  Class 'Route' not found in /home/anant615/public_html/Test/laravel/website/app/Http/routes.php on line 14

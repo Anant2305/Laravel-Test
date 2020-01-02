@@ -1,0 +1,77 @@
+@charset "UTF-8";
+/* CSS Document */
+csta_nav{
+	background-color: #F9F2F2 !important;
+}
+
+.csta-listings {
+	margin: 10px;
+	height: 250px;
+}
+
+.csta-list-haccp{
+	border-color:#7E93F0;
+	border-style:solid
+}
+
+.csta-list-summary{
+	padding-left:0px !important;
+	padding-right:0px !important;
+	height: 90px;
+	overflow:scroll;
+}
+
+.csta-list-title{
+	padding-top: 10px;
+	padding-bottom:10px;
+	color:white;
+	margin: 0px -15px 0px -15px;
+}
+
+.csta-list-hyg{
+	border-color:#F5C75E;
+	border-style:solid
+}
+
+.csta-list-algy{
+	border-color:#76D25F;
+	border-style:solid
+}
+
+.csta-list-other{
+	border-color:#CC99EE;
+	border-style:solid
+}
+
+.csta-list-haccp-title{
+	background-color:#7E93F0;
+}
+
+.csta-list-hyg-title{
+	background-color:#F5C75E;
+}
+
+.csta-list-algy-title{
+	background-color:#76D25F;
+}
+
+.csta-list-other-title{
+	background-color:#CC99EE;
+}
+
+.panel-body{
+	background-color:#CECECE !important;
+}
+
+@media screen and (max-width: 705px) {
+    
+.csta-listings {
+margin: 10px 0px 10px 0px !important;
+height: 200px !important;
+}
+
+.csta-list-summary{
+	height: 50px !important;
+}
+	
+}
